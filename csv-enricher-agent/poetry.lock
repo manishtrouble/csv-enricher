@@ -667,6 +667,22 @@ google-auth = ">=1.12.0"
 google-auth-oauthlib = ">=0.4.1"
 
 [[package]]
+name = "gspread-dataframe"
+version = "4.0.0"
+description = "Read/write gspread worksheets using pandas DataFrames"
+optional = false
+python-versions = "*"
+files = [
+    {file = "gspread-dataframe-4.0.0.tar.gz", hash = "sha256:5ca5493478ecae49b833664a06bac8e17b5b4ed0bdf77f551c948f30545860e6"},
+    {file = "gspread_dataframe-4.0.0-py2.py3-none-any.whl", hash = "sha256:19a3c6cd95bf85f8d6c3657227bb921ef36110174d365cc576defe4ed45b6f7d"},
+]
+
+[package.dependencies]
+gspread = ">=3.0.0"
+pandas = ">=0.24.0"
+six = ">=1.12.0"
+
+[[package]]
 name = "h11"
 version = "0.14.0"
 description = "A pure-Python, bring-your-own-I/O implementation of HTTP/1.1"
@@ -2834,4 +2850,4 @@ propcache = ">=0.2.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "bdb7386a38aa3b42f20d0f5f5116482700fad2da204a50eec6ceb2c343d29e91"
+content-hash = "0497846acfbb7bc4a839ff3d0f9d6a2776b72eb19f62d6112617341e8a6fc7e8"
