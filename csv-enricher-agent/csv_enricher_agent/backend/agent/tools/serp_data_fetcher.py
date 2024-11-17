@@ -6,7 +6,7 @@ from serpapi import GoogleSearch
 @tool
 def search(query:str) -> json:
     """Performs a google search for a query and returns a json""" 
-    SERP_API_KEY = "cc6b0293dc8ff5eeeb96f3442e940f51d9103682588e23f3ea9f337b0aba532c"
+    SERP_API_KEY = ""
     search_url = "https://serpapi.com/search.json"
 
     params = {
