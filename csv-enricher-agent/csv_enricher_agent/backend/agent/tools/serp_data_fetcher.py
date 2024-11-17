@@ -3,11 +3,14 @@ import json
 import requests
 import serpapi
 from serpapi import GoogleSearch
+from dotenv import load_dotenv
+load_dotenv()
+import os 
+
 @tool
 def search(query:str) -> json:
     """Performs a google search for a query and returns a json""" 
-    SERP_API_KEY = ""
-    search_url = "https://serpapi.com/search.json"
+    SERP_API_KEY = os.getenv("SERP_API_KEY")
 
     params = {
         "q": f"{query}",  

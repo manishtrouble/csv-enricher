@@ -1,6 +1,11 @@
 import requests
+from dotenv import load_dotenv
+load_dotenv()
+import os 
 
-SERP_API_KEY = "cc6b0293dc8ff5eeeb96f3442e940f51d9103682588e23f3ea9f337b0aba532c"
+SERP_API_KEY = os.getenv("SERP_API_KEY")
+
+# SERP_API_KEY = "cc6b0293dc8ff5eeeb96f3442e940f51d9103682588e23f3ea9f337b0aba532c"
 search_url = "https://serpapi.com/search.json"
 
 # Function to fetch data based on task request

@@ -7,7 +7,12 @@ from backend.agent.tools.serp_data_fetcher import search
 from langchain_openai import ChatOpenAI
 from typing import Any
 from string import Template
+from dotenv import load_dotenv
+import os 
 import io
+
+load_dotenv()
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 @st.cache_data
 def process_llm_queries(queries, _llm, _agent_executor):

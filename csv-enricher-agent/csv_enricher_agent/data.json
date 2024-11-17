@@ -1,95 +1,82 @@
 {
     "related_questions": [
         {
-            "question": "What is an AT&T email address?",
-            "snippet": "Att net email is a free email service provided by AT&T, a telecommunications company. These email addresses are incorporated with Yahoo addresses, utilize the latter's infrastructure, and are integrated with AT&T's other services. Att net emails are useful if you want to create personal accounts.",
-            "title": "How to Create an Att Net Email for Free - A Simple 3-Step Guide - Neo",
-            "link": "https://www.neo.space/blog/how-to-create-an-att-net-email-for-free#:~:text=Att%20net%20email%20is%20a,want%20to%20create%20personal%20accounts.",
-            "displayed_link": "https://www.neo.space › blog › how-to-create-an-att-net-...",
-            "source_logo": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/2232d1720517c777f91f24e4907ced44bec87324e70f16c4ab13913214960bf2.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UU1VOUdTVU5VVTFWdlZtOW9aa3RSU0cxTk9YWm9kRVk1VG5KSVR6SkZYMmcyTFZscGJGcHdUMnBmUldsbU1qQjVWbWt0V0RaVlgyaGhhemt5VkVwV1VVNUxja1JyUzA0NVl6aFNPRkZaVjJwS1RGaDBSWEJpY0VObFp4SVhiVGcwTlZvMlNHVkhVRWhtY0RnMFVHNUxabGR4VVZVYUlrRkdXSEpGWTI4MlFVSlFObDlIVFZKSk0wcGhWa3BOYkRCQ1VuSjRXRU5qV1VFIiwiZmN2IjoiMyIsImVpIjoibTg0NVo2SGVHUEhmcDg0UG5LZldxUVUiLCJxYyI6IkNoeGxiV0ZwYkNCcFpDQmhibVFnWVdSa2NtVnpjeUJ2WmlCaGRDWjBFQUI5VkRjNlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGFuIEFUXHUwMDI2VCBlbWFpbCBhZGRyZXNzPyIsImxrIjoiR2gxM2FHRjBJR2x6SUdGdUlHRjBKblFnWlcxaGFXd2dZV1JrY21WemN3IiwiYnMiOiJjLU55NFpJTHowZ3NVY2dzVmtqTVUzQU1VUXRSU00xTnpNeFJTRXhKS1VvdExyYVh1SkJ2SkM4bFc0NVFsRmlpVm9LcWlDdUdTd3RtU2tsR0tsUXlMYjhvRnlnR3BDRG1KdWZuRmlUbVZkcEwzTTB5MHBiU0xNZW5BV3dIVkFOWEJKZW1SMzY1UWtxLWdxZENjV3BlQ3NnUkVCMGwtWEJYNTVYbUpxVVcyVXRjRnpiU2tGTExBS29IU21KVERUWWFvcHJMZzB2QnN4aW9QMFNodERpMVNNSFRCYUVZN3Y4ZFJVYUtVdklncjVlVVFKUmxwbUFvRTJBRUFBIiwiaWQiOiJmY19tODQ1WjZIZUdQSGZwODRQbktmV3FRVV8xIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UU1VOUdTVU5VVTFWdlZtOW9aa3RSU0cxTk9YWm9kRVk1VG5KSVR6SkZYMmcyTFZscGJGcHdUMnBmUldsbU1qQjVWbWt0V0RaVlgyaGhhemt5VkVwV1VVNUxja1JyUzA0NVl6aFNPRkZaVjJwS1RGaDBSWEJpY0VObFp4SVhiVGcwTlZvMlNHVkhVRWhtY0RnMFVHNUxabGR4VVZVYUlrRkdXSEpGWTI4MlFVSlFObDlIVFZKSk0wcGhWa3BOYkRCQ1VuSjRXRU5qV1VFIiwiZmN2IjoiMyIsImVpIjoibTg0NVo2SGVHUEhmcDg0UG5LZldxUVUiLCJxYyI6IkNoeGxiV0ZwYkNCcFpDQmhibVFnWVdSa2NtVnpjeUJ2WmlCaGRDWjBFQUI5VkRjNlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGFuIEFUXHUwMDI2VCBlbWFpbCBhZGRyZXNzPyIsImxrIjoiR2gxM2FHRjBJR2x6SUdGdUlHRjBKblFnWlcxaGFXd2dZV1JrY21WemN3IiwiYnMiOiJjLU55NFpJTHowZ3NVY2dzVmtqTVUzQU1VUXRSU00xTnpNeFJTRXhKS1VvdExyYVh1SkJ2SkM4bFc0NVFsRmlpVm9LcWlDdUdTd3RtU2tsR0tsUXlMYjhvRnlnR3BDRG1KdWZuRmlUbVZkcEwzTTB5MHBiU0xNZW5BV3dIVkFOWEJKZW1SMzY1UWtxLWdxZENjV3BlQ3NnUkVCMGwtWEJYNTVYbUpxVVcyVXRjRnpiU2tGTExBS29IU21KVERUWWFvcHJMZzB2QnN4aW9QMFNodERpMVNNSFRCYUVZN3Y4ZFJVYUtVdklncjVlVVFKUmxwbUFvRTJBRUFBIiwiaWQiOiJmY19tODQ1WjZIZUdQSGZwODRQbktmV3FRVV8xIn0%3D"
+            "question": "What is AT&T's main address?",
+            "snippet": "Interested persons may contact the Board of Directors, the non-management directors, the lead director or a specific individual director by sending written comments through the Office of the Secretary of AT&T Inc., 208 S. Akard Street, Suite 2954, Dallas, Texas 75202.",
+            "title": "Contacts - Investor Relations | AT&T",
+            "link": "https://investors.att.com/resources/contacts#:~:text=Interested%20persons%20may%20contact%20the,2954%2C%20Dallas%2C%20Texas%2075202.",
+            "displayed_link": "https://investors.att.com › resources › contacts",
+            "source_logo": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/fb51dc9820341fed955d34ff75b59f8152612859cfb4a8c3a25bf697ddaa4994.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TllVTmxhWFZCT0ZONmVYSnFNa0ZTY25odFJXcHNTMHg0UXpWak1IUnVkbHByU1ZSdlRGRkZiRm8zWHpab2FraGtVRmMwWkhaMFpEZzJibmhxY0V4SVlrcEtkMUZyTmt3eFZtOUNSMjk1UW5KcFUyUmZSV0ZwUlRKWVFSSVhNVk00TmxvdFIxOUpPWFpyZDA0MFVHbHdWemwxVVVrYUlrRkdXSEpGWTNBMFZ6bGFhMFJmTjB4NGNubDBVMU4xV21oMFExSmhSM1ZQUzBFIiwiZmN2IjoiMyIsImVpIjoiMVM4NlotR19JOXZrd040UGlwVzl1UUkiLCJxYyI6IkNnOWhaR1J5WlhOeklHOW1JR0YwSm5RUUFIMzRpQTBfIiwicXVlc3Rpb24iOiJXaGF0IGlzIEFUXHUwMDI2VCdzIG1haW4gYWRkcmVzcz8iLCJsayI6IkdobDNhR0YwSUdseklHRjBKblFnYldGcGJpQmhaR1J5WlhOeiIsImJzIjoiYzRYTnNRckNNQlFGVUZ3emlWT05ZcDlMQlhYcUJ4ZzZLTG9YdWdreFRXMGdOcEk4S2Y2ZF8tRHN2MWhUSzRpRHc1dnV1ZmVSRlJsbkpVZFFEcEkwU21jT1RseFZ3UFBjU3VkWThMakVJenFzMzRSamhGLUE3TW1pNjJNcFg1bFcxYkdMb1REVzc4SkJhZDNNM1FieGtzN3JQdzNfeGpmSWhvUmJVME51WUFmQ1ZNZ0Z0b081c2xLZ3ZyTGd6bUtnazdKVjZxUDhTS2ZJbWtCV1NpdUJONWVrYWNQczJWaU9Fa3hSS0NFZGk2YzByRC1HSV82YWZ1OEoiLCJpZCI6ImZjXzFTODZaLUdfSTl2a3dONFBpcFc5dVFJXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TllVTmxhWFZCT0ZONmVYSnFNa0ZTY25odFJXcHNTMHg0UXpWak1IUnVkbHByU1ZSdlRGRkZiRm8zWHpab2FraGtVRmMwWkhaMFpEZzJibmhxY0V4SVlrcEtkMUZyTmt3eFZtOUNSMjk1UW5KcFUyUmZSV0ZwUlRKWVFSSVhNVk00TmxvdFIxOUpPWFpyZDA0MFVHbHdWemwxVVVrYUlrRkdXSEpGWTNBMFZ6bGFhMFJmTjB4NGNubDBVMU4xV21oMFExSmhSM1ZQUzBFIiwiZmN2IjoiMyIsImVpIjoiMVM4NlotR19JOXZrd040UGlwVzl1UUkiLCJxYyI6IkNnOWhaR1J5WlhOeklHOW1JR0YwSm5RUUFIMzRpQTBfIiwicXVlc3Rpb24iOiJXaGF0IGlzIEFUXHUwMDI2VCdzIG1haW4gYWRkcmVzcz8iLCJsayI6IkdobDNhR0YwSUdseklHRjBKblFnYldGcGJpQmhaR1J5WlhOeiIsImJzIjoiYzRYTnNRckNNQlFGVUZ3emlWT05ZcDlMQlhYcUJ4ZzZLTG9YdWdreFRXMGdOcEk4S2Y2ZF8tRHN2MWhUSzRpRHc1dnV1ZmVSRlJsbkpVZFFEcEkwU21jT1RseFZ3UFBjU3VkWThMakVJenFzMzRSamhGLUE3TW1pNjJNcFg1bFcxYkdMb1REVzc4SkJhZDNNM1FieGtzN3JQdzNfeGpmSWhvUmJVME51WUFmQ1ZNZ0Z0b081c2xLZ3ZyTGd6bUtnazdKVjZxUDhTS2ZJbWtCV1NpdUJONWVrYWNQczJWaU9Fa3hSS0NFZGk2YzByRC1HSV82YWZ1OEoiLCJpZCI6ImZjXzFTODZaLUdfSTl2a3dONFBpcFc5dVFJXzEifQ%3D%3D"
         },
         {
-            "question": "What is the email format for AT&T company?",
-            "snippet": "Most Common Email Formats at AT&T",
+            "question": "What is the mailing address for AT&T bills?",
+            "snippet": "FREQUENTLY ASKED QUESTIONS",
             "table": [
                 [
-                    "AT&T Email Formats",
-                    "Example",
-                    "Percentage"
+                    "AT&T WirelessSM",
+                    "AT&T P.O. Box 6416 Carol Stream, IL 60197-6416"
                 ],
                 [
-                    "First.L@att.com",
-                    "John.D@att.com",
-                    "1%"
+                    "U-verse® TV and AT&T Internet or Phone",
+                    "AT&T P.O. Box 5014 Carol Stream, IL 60197-5014"
                 ],
                 [
-                    "Last@us.att.com",
-                    "Doe@us.att.com",
-                    "95%"
+                    "DSL or home phone",
+                    "AT&T P.O. Box 5080 Carol Stream, IL 60197-5080"
                 ],
                 [
-                    "FLast@us.att.com",
-                    "JDoe@us.att.com",
-                    "5%"
-                ],
-                [
-                    "FLast@directv.com",
-                    "JDoe@directv.com",
-                    "87%"
+                    "Small Business",
+                    "AT&T Remittance Center P. O. Box 5001 Carol Stream, IL 60197-5001"
                 ]
             ],
             "formatted": [
                 {
-                    "at_t_email_formats": "First.L@att.com",
-                    "example": "John.D@att.com",
-                    "percentage": "1%"
+                    "at_t_wireless_sm": "U-verse® TV and AT&T Internet or Phone",
+                    "at_t_p_o_box_6416_carol_stream_il_60197_6416": "AT&T P.O. Box 5014 Carol Stream, IL 60197-5014"
                 },
                 {
-                    "at_t_email_formats": "Last@us.att.com",
-                    "example": "Doe@us.att.com",
-                    "percentage": "95%"
+                    "at_t_wireless_sm": "DSL or home phone",
+                    "at_t_p_o_box_6416_carol_stream_il_60197_6416": "AT&T P.O. Box 5080 Carol Stream, IL 60197-5080"
                 },
                 {
-                    "at_t_email_formats": "FLast@us.att.com",
-                    "example": "JDoe@us.att.com",
-                    "percentage": "5%"
-                },
-                {
-                    "at_t_email_formats": "FLast@directv.com",
-                    "example": "JDoe@directv.com",
-                    "percentage": "87%"
+                    "at_t_wireless_sm": "Small Business",
+                    "at_t_p_o_box_6416_carol_stream_il_60197_6416": "AT&T Remittance Center P. O. Box 5001 Carol Stream, IL 60197-5001"
                 }
             ],
-            "title": "AT&T Email Formats & Email Address Examples | LeadIQ",
-            "link": "https://leadiq.com/c/att/5a1d8a942400002400644dfb/email-format",
-            "displayed_link": "https://leadiq.com › att › email-format",
-            "source_logo": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/2232d1720517c777f91f24e4907ced44fff72f3cc3b45ffc19e82f013061c868.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UU1VOUdTVU5VVTFWdlZtOW9aa3RSU0cxTk9YWm9kRVk1VG5KSVR6SkZYMmcyTFZscGJGcHdUMnBmUldsbU1qQjVWbWt0V0RaVlgyaGhhemt5VkVwV1VVNUxja1JyUzA0NVl6aFNPRkZaVjJwS1RGaDBSWEJpY0VObFp4SVhiVGcwTlZvMlNHVkhVRWhtY0RnMFVHNUxabGR4VVZVYUlrRkdXSEpGWTI4MlFVSlFObDlIVFZKSk0wcGhWa3BOYkRCQ1VuSjRXRU5qV1VFIiwiZmN2IjoiMyIsImVpIjoibTg0NVo2SGVHUEhmcDg0UG5LZldxUVUiLCJxYyI6IkNoeGxiV0ZwYkNCcFpDQmhibVFnWVdSa2NtVnpjeUJ2WmlCaGRDWjBFQUI5VkRjNlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBlbWFpbCBmb3JtYXQgZm9yIEFUXHUwMDI2VCBjb21wYW55PyIsImxrIjoiYzVQU0xNOUlMRkhJTEZZb3lVaFZTTTFOek14UlNNc3Z5Z1dLQVNtRnhCSzFFb1hrX055Q3hMeEtBQSIsImJzIjoiYy1OeTRaSUx6MGdzVWNnc1Zrak1VM0FNVVF0UlNNMU56TXhSU0V4SktVb3RMcmFYdUpCdkpDOGxXNDVRbEZpaVZvS3FpQ3VHU3d0bVNrbEdLbFF5TGI4b0Z5Z0dwQ0RtSnVmbkZpVG1WZHBMM00weTBwYlNMTWVuQVd3SFZBTlhCSmVtUjM2NVFrcS1ncWRDY1dwZUNzZ1JFQjBsLVhCWDU1WG1KcVVXMlV0Y0Z6YlNrRkxMQUtvSFNtSlREVFlhb3ByTGcwdkJzeGlvUDBTaHREaTFTTUhUQmFFWTd2OGRSVWFLVXZJZ3I1ZVVRSlJscG1Bb0UyQUVBQSIsImlkIjoiZmNfbTg0NVo2SGVHUEhmcDg0UG5LZldxUVVfMSJ9",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UU1VOUdTVU5VVTFWdlZtOW9aa3RSU0cxTk9YWm9kRVk1VG5KSVR6SkZYMmcyTFZscGJGcHdUMnBmUldsbU1qQjVWbWt0V0RaVlgyaGhhemt5VkVwV1VVNUxja1JyUzA0NVl6aFNPRkZaVjJwS1RGaDBSWEJpY0VObFp4SVhiVGcwTlZvMlNHVkhVRWhtY0RnMFVHNUxabGR4VVZVYUlrRkdXSEpGWTI4MlFVSlFObDlIVFZKSk0wcGhWa3BOYkRCQ1VuSjRXRU5qV1VFIiwiZmN2IjoiMyIsImVpIjoibTg0NVo2SGVHUEhmcDg0UG5LZldxUVUiLCJxYyI6IkNoeGxiV0ZwYkNCcFpDQmhibVFnWVdSa2NtVnpjeUJ2WmlCaGRDWjBFQUI5VkRjNlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBlbWFpbCBmb3JtYXQgZm9yIEFUXHUwMDI2VCBjb21wYW55PyIsImxrIjoiYzVQU0xNOUlMRkhJTEZZb3lVaFZTTTFOek14UlNNc3Z5Z1dLQVNtRnhCSzFFb1hrX055Q3hMeEtBQSIsImJzIjoiYy1OeTRaSUx6MGdzVWNnc1Zrak1VM0FNVVF0UlNNMU56TXhSU0V4SktVb3RMcmFYdUpCdkpDOGxXNDVRbEZpaVZvS3FpQ3VHU3d0bVNrbEdLbFF5TGI4b0Z5Z0dwQ0RtSnVmbkZpVG1WZHBMM00weTBwYlNMTWVuQVd3SFZBTlhCSmVtUjM2NVFrcS1ncWRDY1dwZUNzZ1JFQjBsLVhCWDU1WG1KcVVXMlV0Y0Z6YlNrRkxMQUtvSFNtSlREVFlhb3ByTGcwdkJzeGlvUDBTaHREaTFTTUhUQmFFWTd2OGRSVWFLVXZJZ3I1ZVVRSlJscG1Bb0UyQUVBQSIsImlkIjoiZmNfbTg0NVo2SGVHUEhmcDg0UG5LZldxUVVfMSJ9"
+            "title": "Learn ways to pay your bill - AT&T",
+            "link": "https://www.att.com/support/article/my-account/KM1009340/",
+            "displayed_link": "https://www.att.com › support › article › my-account",
+            "source_logo": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/fb51dc9820341fed955d34ff75b59f818c132c4af58c0d405f2ca8b01765e95f.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TllVTmxhWFZCT0ZONmVYSnFNa0ZTY25odFJXcHNTMHg0UXpWak1IUnVkbHByU1ZSdlRGRkZiRm8zWHpab2FraGtVRmMwWkhaMFpEZzJibmhxY0V4SVlrcEtkMUZyTmt3eFZtOUNSMjk1UW5KcFUyUmZSV0ZwUlRKWVFSSVhNVk00TmxvdFIxOUpPWFpyZDA0MFVHbHdWemwxVVVrYUlrRkdXSEpGWTNBMFZ6bGFhMFJmTjB4NGNubDBVMU4xV21oMFExSmhSM1ZQUzBFIiwiZmN2IjoiMyIsImVpIjoiMVM4NlotR19JOXZrd040UGlwVzl1UUkiLCJxYyI6IkNnOWhaR1J5WlhOeklHOW1JR0YwSm5RUUFIMzRpQTBfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtYWlsaW5nIGFkZHJlc3MgZm9yIEFUXHUwMDI2VCBiaWxscz8iLCJsayI6IkdpcDNhR0YwSUdseklIUm9aU0J0WVdsc2FXNW5JR0ZrWkhKbGMzTWdabTl5SUdGMEpuUWdZbWxzYkhNIiwiYnMiOiJjNFhOc1FyQ01CUUZVRnd6aVZPTllwOUxCWFhxQnhnNktMb1h1Z2t4VFcwZ05wSThLZjZkXy1Ec3YxaFRLNGlEdzV2dXVmZVJGUmxuSlVkUURwSTBTbWNPVGx4VndQUGNTdWRZOExqRUl6cXMzNFJqaEYtQTdNbWk2Mk1wWDVsVzFiR0xvVERXNzhKQmFkM00zUWJ4a3M3clB3M194amZJaG9SYlUwTnVZQWZDVk1nRnRvTzVzbEtndnJMZ3ptS2drN0pWNnFQOFNLZklta0JXU2l1Qk41ZWthY1BzMlZpT0VreFJLQ0VkaTZjMHJELUdJXzZhZnU4SiIsImlkIjoiZmNfMVM4NlotR19JOXZrd040UGlwVzl1UUlfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TllVTmxhWFZCT0ZONmVYSnFNa0ZTY25odFJXcHNTMHg0UXpWak1IUnVkbHByU1ZSdlRGRkZiRm8zWHpab2FraGtVRmMwWkhaMFpEZzJibmhxY0V4SVlrcEtkMUZyTmt3eFZtOUNSMjk1UW5KcFUyUmZSV0ZwUlRKWVFSSVhNVk00TmxvdFIxOUpPWFpyZDA0MFVHbHdWemwxVVVrYUlrRkdXSEpGWTNBMFZ6bGFhMFJmTjB4NGNubDBVMU4xV21oMFExSmhSM1ZQUzBFIiwiZmN2IjoiMyIsImVpIjoiMVM4NlotR19JOXZrd040UGlwVzl1UUkiLCJxYyI6IkNnOWhaR1J5WlhOeklHOW1JR0YwSm5RUUFIMzRpQTBfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtYWlsaW5nIGFkZHJlc3MgZm9yIEFUXHUwMDI2VCBiaWxscz8iLCJsayI6IkdpcDNhR0YwSUdseklIUm9aU0J0WVdsc2FXNW5JR0ZrWkhKbGMzTWdabTl5SUdGMEpuUWdZbWxzYkhNIiwiYnMiOiJjNFhOc1FyQ01CUUZVRnd6aVZPTllwOUxCWFhxQnhnNktMb1h1Z2t4VFcwZ05wSThLZjZkXy1Ec3YxaFRLNGlEdzV2dXVmZVJGUmxuSlVkUURwSTBTbWNPVGx4VndQUGNTdWRZOExqRUl6cXMzNFJqaEYtQTdNbWk2Mk1wWDVsVzFiR0xvVERXNzhKQmFkM00zUWJ4a3M3clB3M194amZJaG9SYlUwTnVZQWZDVk1nRnRvTzVzbEtndnJMZ3ptS2drN0pWNnFQOFNLZklta0JXU2l1Qk41ZWthY1BzMlZpT0VreFJLQ0VkaTZjMHJELUdJXzZhZnU4SiIsImlkIjoiZmNfMVM4NlotR19JOXZrd040UGlwVzl1UUlfMSJ9"
         },
         {
-            "question": "How do I send an email to an AT&T number?",
-            "snippet": "Text message - Compose a new email and enter the recipient's 10-digit wireless number, followed by @txt.att.net. For example, 5551234567@txt.att.net. Picture or video message - Compose a new email and enter the recipient's 10-digit wireless number, followed by @mms.att.net.",
-            "title": "Send Text-To-Email or Email-To-Text Messages - AT&T",
-            "date": "Dec 7, 2022",
-            "link": "https://www.att.com/support/article/wireless/KM1061254/#:~:text=Text%20message%20%2D%20Compose%20a%20new,%40mms.att.net.",
-            "displayed_link": "https://www.att.com › Support",
-            "source_logo": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/2232d1720517c777f91f24e4907ced442ffe5933c907c2c6535be7fd1b5729f0.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UU1VOUdTVU5VVTFWdlZtOW9aa3RSU0cxTk9YWm9kRVk1VG5KSVR6SkZYMmcyTFZscGJGcHdUMnBmUldsbU1qQjVWbWt0V0RaVlgyaGhhemt5VkVwV1VVNUxja1JyUzA0NVl6aFNPRkZaVjJwS1RGaDBSWEJpY0VObFp4SVhiVGcwTlZvMlNHVkhVRWhtY0RnMFVHNUxabGR4VVZVYUlrRkdXSEpGWTI4MlFVSlFObDlIVFZKSk0wcGhWa3BOYkRCQ1VuSjRXRU5qV1VFIiwiZmN2IjoiMyIsImVpIjoibTg0NVo2SGVHUEhmcDg0UG5LZldxUVUiLCJxYyI6IkNoeGxiV0ZwYkNCcFpDQmhibVFnWVdSa2NtVnpjeUJ2WmlCaGRDWjBFQUI5VkRjNlB3IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBzZW5kIGFuIGVtYWlsIHRvIGFuIEFUXHUwMDI2VCBudW1iZXI/IiwibGsiOiJjNU5TeThndlZ5akpWeWhPelV0UlNNeFRTTTFOek13QkNRRFppU1ZxSlFwNXBibEpxVVVBIiwiYnMiOiJjLU55NFpJTHowZ3NVY2dzVmtqTVUzQU1VUXRSU00xTnpNeFJTRXhKS1VvdExyYVh1SkJ2SkM4bFc0NVFsRmlpVm9LcWlDdUdTd3RtU2tsR0tsUXlMYjhvRnlnR3BDRG1KdWZuRmlUbVZkcEwzTTB5MHBiU0xNZW5BV3dIVkFOWEJKZW1SMzY1UWtxLWdxZENjV3BlQ3NnUkVCMGwtWEJYNTVYbUpxVVcyVXRjRnpiU2tGTExBS29IU21KVERUWWFvcHJMZzB2QnN4aW9QMFNodERpMVNNSFRCYUVZN3Y4ZFJVYUtVdklncjVlVVFKUmxwbUFvRTJBRUFBIiwiaWQiOiJmY19tODQ1WjZIZUdQSGZwODRQbktmV3FRVV8xIn0=",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UU1VOUdTVU5VVTFWdlZtOW9aa3RSU0cxTk9YWm9kRVk1VG5KSVR6SkZYMmcyTFZscGJGcHdUMnBmUldsbU1qQjVWbWt0V0RaVlgyaGhhemt5VkVwV1VVNUxja1JyUzA0NVl6aFNPRkZaVjJwS1RGaDBSWEJpY0VObFp4SVhiVGcwTlZvMlNHVkhVRWhtY0RnMFVHNUxabGR4VVZVYUlrRkdXSEpGWTI4MlFVSlFObDlIVFZKSk0wcGhWa3BOYkRCQ1VuSjRXRU5qV1VFIiwiZmN2IjoiMyIsImVpIjoibTg0NVo2SGVHUEhmcDg0UG5LZldxUVUiLCJxYyI6IkNoeGxiV0ZwYkNCcFpDQmhibVFnWVdSa2NtVnpjeUJ2WmlCaGRDWjBFQUI5VkRjNlB3IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBzZW5kIGFuIGVtYWlsIHRvIGFuIEFUXHUwMDI2VCBudW1iZXI%2FIiwibGsiOiJjNU5TeThndlZ5akpWeWhPelV0UlNNeFRTTTFOek13QkNRRFppU1ZxSlFwNXBibEpxVVVBIiwiYnMiOiJjLU55NFpJTHowZ3NVY2dzVmtqTVUzQU1VUXRSU00xTnpNeFJTRXhKS1VvdExyYVh1SkJ2SkM4bFc0NVFsRmlpVm9LcWlDdUdTd3RtU2tsR0tsUXlMYjhvRnlnR3BDRG1KdWZuRmlUbVZkcEwzTTB5MHBiU0xNZW5BV3dIVkFOWEJKZW1SMzY1UWtxLWdxZENjV3BlQ3NnUkVCMGwtWEJYNTVYbUpxVVcyVXRjRnpiU2tGTExBS29IU21KVERUWWFvcHJMZzB2QnN4aW9QMFNodERpMVNNSFRCYUVZN3Y4ZFJVYUtVdklncjVlVVFKUmxwbUFvRTJBRUFBIiwiaWQiOiJmY19tODQ1WjZIZUdQSGZwODRQbktmV3FRVV8xIn0%3D"
+            "question": "How do I contact AT&T directly?",
+            "snippet": null,
+            "title": "Contact us",
+            "link": "https://www.att.com/support/wireless/",
+            "list": [
+                "New service. 888.333.6651. M - F, 8 a.m. - 8 p.m. CT. Sa - Su, 9 a.m. - 7 p.m. CT.",
+                "Support for travel abroad. +1.314.925.6925. Available 24/7.",
+                "Disability resources. TTY: 866.241.6567. Voice: 866.241.6568. M - F, 9 a.m. - 9 p.m. CT.",
+                "FirstNet. 800.574.7000. 24/7."
+            ],
+            "displayed_link": "https://www.att.com › support › wireless",
+            "source_logo": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/fb51dc9820341fed955d34ff75b59f81cfd7e09cb012de0d792f7a429830a052.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TllVTmxhWFZCT0ZONmVYSnFNa0ZTY25odFJXcHNTMHg0UXpWak1IUnVkbHByU1ZSdlRGRkZiRm8zWHpab2FraGtVRmMwWkhaMFpEZzJibmhxY0V4SVlrcEtkMUZyTmt3eFZtOUNSMjk1UW5KcFUyUmZSV0ZwUlRKWVFSSVhNVk00TmxvdFIxOUpPWFpyZDA0MFVHbHdWemwxVVVrYUlrRkdXSEpGWTNBMFZ6bGFhMFJmTjB4NGNubDBVMU4xV21oMFExSmhSM1ZQUzBFIiwiZmN2IjoiMyIsImVpIjoiMVM4NlotR19JOXZrd040UGlwVzl1UUkiLCJxYyI6IkNnOWhaR1J5WlhOeklHOW1JR0YwSm5RUUFIMzRpQTBfIiwicXVlc3Rpb24iOiJIb3cgZG8gSSBjb250YWN0IEFUXHUwMDI2VCBkaXJlY3RseT8iLCJsayI6IkdoNW9iM2NnWkc4Z2FTQmpiMjUwWVdOMElHRjBKblFnWkdseVpXTjBiSGsiLCJicyI6ImM0WE5zUXJDTUJRRlVGd3ppVk9OWXA5TEJYWHFCeGc2S0xvWHVna3hUVzBnTnBJOEtmNmRfLURzdjFoVEs0aUR3NXZ1dWZlUkZSbG5KVWRRRHBJMFNtY09UbHhWd1BQY1N1ZFk4TGpFSXpxczM0UmpoRi1BN01taTYyTXBYNWxXMWJHTG9URFc3OEpCYWQzTTNRYnhrczdyUHczX3hqZklob1JiVTBOdVlBZkNWTWdGdG9PNXNsS2d2ckxnem1LZ2s3SlY2cVA4U0tmSW1rQldTaXVCTjVla2FjUHMyVmlPRWt4UktDRWRpNmMwckQtR0lfNmFmdThKIiwiaWQiOiJmY18xUzg2Wi1HX0k5dmt3TjRQaXBXOXVRSV8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TllVTmxhWFZCT0ZONmVYSnFNa0ZTY25odFJXcHNTMHg0UXpWak1IUnVkbHByU1ZSdlRGRkZiRm8zWHpab2FraGtVRmMwWkhaMFpEZzJibmhxY0V4SVlrcEtkMUZyTmt3eFZtOUNSMjk1UW5KcFUyUmZSV0ZwUlRKWVFSSVhNVk00TmxvdFIxOUpPWFpyZDA0MFVHbHdWemwxVVVrYUlrRkdXSEpGWTNBMFZ6bGFhMFJmTjB4NGNubDBVMU4xV21oMFExSmhSM1ZQUzBFIiwiZmN2IjoiMyIsImVpIjoiMVM4NlotR19JOXZrd040UGlwVzl1UUkiLCJxYyI6IkNnOWhaR1J5WlhOeklHOW1JR0YwSm5RUUFIMzRpQTBfIiwicXVlc3Rpb24iOiJIb3cgZG8gSSBjb250YWN0IEFUXHUwMDI2VCBkaXJlY3RseT8iLCJsayI6IkdoNW9iM2NnWkc4Z2FTQmpiMjUwWVdOMElHRjBKblFnWkdseVpXTjBiSGsiLCJicyI6ImM0WE5zUXJDTUJRRlVGd3ppVk9OWXA5TEJYWHFCeGc2S0xvWHVna3hUVzBnTnBJOEtmNmRfLURzdjFoVEs0aUR3NXZ1dWZlUkZSbG5KVWRRRHBJMFNtY09UbHhWd1BQY1N1ZFk4TGpFSXpxczM0UmpoRi1BN01taTYyTXBYNWxXMWJHTG9URFc3OEpCYWQzTTNRYnhrczdyUHczX3hqZklob1JiVTBOdVlBZkNWTWdGdG9PNXNsS2d2ckxnem1LZ2s3SlY2cVA4U0tmSW1rQldTaXVCTjVla2FjUHMyVmlPRWt4UktDRWRpNmMwckQtR0lfNmFmdThKIiwiaWQiOiJmY18xUzg2Wi1HX0k5dmt3TjRQaXBXOXVRSV8xIn0%3D"
         },
         {
-            "question": "Is ATT user ID an email address?",
-            "snippet": "Your Member ID is the unique name you chose when you registered for AT&T service. It is the same as your email address. You can find your Member ID on your phone bill, in the Internet section. Your Member ID will look like this: johnsmith@att.net.",
-            "title": "All About Your Member ID - AT&T Business Bill & account Customer ...",
-            "date": "Jan 5, 2024",
-            "link": "https://www.att.com/support/smallbusiness/article/smb-my-account/KM1187530/#:~:text=Your%20Member%20ID%20is%20the,%3A%20johnsmith%40att.net.",
-            "displayed_link": "https://www.att.com › support › article › smb-my-account",
-            "source_logo": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/2232d1720517c777f91f24e4907ced4468040fc7d6c91c2a25d57792948658fc.png",
-            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UU1VOUdTVU5VVTFWdlZtOW9aa3RSU0cxTk9YWm9kRVk1VG5KSVR6SkZYMmcyTFZscGJGcHdUMnBmUldsbU1qQjVWbWt0V0RaVlgyaGhhemt5VkVwV1VVNUxja1JyUzA0NVl6aFNPRkZaVjJwS1RGaDBSWEJpY0VObFp4SVhiVGcwTlZvMlNHVkhVRWhtY0RnMFVHNUxabGR4VVZVYUlrRkdXSEpGWTI4MlFVSlFObDlIVFZKSk0wcGhWa3BOYkRCQ1VuSjRXRU5qV1VFIiwiZmN2IjoiMyIsImVpIjoibTg0NVo2SGVHUEhmcDg0UG5LZldxUVUiLCJxYyI6IkNoeGxiV0ZwYkNCcFpDQmhibVFnWVdSa2NtVnpjeUJ2WmlCaGRDWjBFQUI5VkRjNlB3IiwicXVlc3Rpb24iOiJJcyBBVFQgdXNlciBJRCBhbiBlbWFpbCBhZGRyZXNzPyIsImxrIjoiR2g5cGN5QmhkSFFnZFhObGNpQnBaQ0JoYmlCbGJXRnBiQ0JoWkdSeVpYTnoiLCJicyI6ImMtTnk0WklMejBnc1VjZ3NWa2pNVTNBTVVRdFJTTTFOek14UlNFeEpLVW90THJhWHVKQnZKQzhsVzQ1UWxGaWlWb0txaUN1R1N3dG1Ta2xHS2xReUxiOG9GeWdHcENEbUp1Zm5GaVRtVmRwTDNNMHkwcGJTTE1lbkFXd0hWQU5YQkplbVIzNjVRa3EtZ3FkQ2NXcGVDc2dSRUIwbC1YQlg1NVhtSnFVVzJVdGNGemJTa0ZMTEFLb0hTbUpURFRZYW9wckxnMHZCc3hpb1AwU2h0RGkxU01IVEJhRVk3djhkUlVhS1V2SWdyNWVVUUpSbHBtQW9FMkFFQUEiLCJpZCI6ImZjX204NDVaNkhlR1BIZnA4NFBuS2ZXcVFVXzEifQ==",
-            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UU1VOUdTVU5VVTFWdlZtOW9aa3RSU0cxTk9YWm9kRVk1VG5KSVR6SkZYMmcyTFZscGJGcHdUMnBmUldsbU1qQjVWbWt0V0RaVlgyaGhhemt5VkVwV1VVNUxja1JyUzA0NVl6aFNPRkZaVjJwS1RGaDBSWEJpY0VObFp4SVhiVGcwTlZvMlNHVkhVRWhtY0RnMFVHNUxabGR4VVZVYUlrRkdXSEpGWTI4MlFVSlFObDlIVFZKSk0wcGhWa3BOYkRCQ1VuSjRXRU5qV1VFIiwiZmN2IjoiMyIsImVpIjoibTg0NVo2SGVHUEhmcDg0UG5LZldxUVUiLCJxYyI6IkNoeGxiV0ZwYkNCcFpDQmhibVFnWVdSa2NtVnpjeUJ2WmlCaGRDWjBFQUI5VkRjNlB3IiwicXVlc3Rpb24iOiJJcyBBVFQgdXNlciBJRCBhbiBlbWFpbCBhZGRyZXNzPyIsImxrIjoiR2g5cGN5QmhkSFFnZFhObGNpQnBaQ0JoYmlCbGJXRnBiQ0JoWkdSeVpYTnoiLCJicyI6ImMtTnk0WklMejBnc1VjZ3NWa2pNVTNBTVVRdFJTTTFOek14UlNFeEpLVW90THJhWHVKQnZKQzhsVzQ1UWxGaWlWb0txaUN1R1N3dG1Ta2xHS2xReUxiOG9GeWdHcENEbUp1Zm5GaVRtVmRwTDNNMHkwcGJTTE1lbkFXd0hWQU5YQkplbVIzNjVRa3EtZ3FkQ2NXcGVDc2dSRUIwbC1YQlg1NVhtSnFVVzJVdGNGemJTa0ZMTEFLb0hTbUpURFRZYW9wckxnMHZCc3hpb1AwU2h0RGkxU01IVEJhRVk3djhkUlVhS1V2SWdyNWVVUUpSbHBtQW9FMkFFQUEiLCJpZCI6ImZjX204NDVaNkhlR1BIZnA4NFBuS2ZXcVFVXzEifQ%3D%3D"
+            "question": "Where are ATT corporate offices?",
+            "snippet": null,
+            "title": "Dallas, TX",
+            "info": "AT&T / Headquarters",
+            "link": "https://www.google.com/search?sca_esv=b28375632d0b0304&q=Where+are+ATT+corporate+offices%3F&sa=X&ved=2ahUKEwih_pLj-eOJAxVbMtAFHYpKLycQsZYEegQIGxAC",
+            "displayed_link": null,
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TllVTmxhWFZCT0ZONmVYSnFNa0ZTY25odFJXcHNTMHg0UXpWak1IUnVkbHByU1ZSdlRGRkZiRm8zWHpab2FraGtVRmMwWkhaMFpEZzJibmhxY0V4SVlrcEtkMUZyTmt3eFZtOUNSMjk1UW5KcFUyUmZSV0ZwUlRKWVFSSVhNVk00TmxvdFIxOUpPWFpyZDA0MFVHbHdWemwxVVVrYUlrRkdXSEpGWTNBMFZ6bGFhMFJmTjB4NGNubDBVMU4xV21oMFExSmhSM1ZQUzBFIiwiZmN2IjoiMyIsImVpIjoiMVM4NlotR19JOXZrd040UGlwVzl1UUkiLCJxYyI6IkNnOWhaR1J5WlhOeklHOW1JR0YwSm5RUUFIMzRpQTBfIiwicXVlc3Rpb24iOiJXaGVyZSBhcmUgQVRUIGNvcnBvcmF0ZSBvZmZpY2VzPyIsImxrIjoiYzVPU0w4OUlMVXBWU0FUaGtoS0Y1UHlpZ3Z5aXhKSlVoZnkwdE16azFHSUEiLCJicyI6ImM0WE5zUXJDTUJRRlVGd3ppVk9OWXA5TEJYWHFCeGc2S0xvWHVna3hUVzBnTnBJOEtmNmRfLURzdjFoVEs0aUR3NXZ1dWZlUkZSbG5KVWRRRHBJMFNtY09UbHhWd1BQY1N1ZFk4TGpFSXpxczM0UmpoRi1BN01taTYyTXBYNWxXMWJHTG9URFc3OEpCYWQzTTNRYnhrczdyUHczX3hqZklob1JiVTBOdVlBZkNWTWdGdG9PNXNsS2d2ckxnem1LZ2s3SlY2cVA4U0tmSW1rQldTaXVCTjVla2FjUHMyVmlPRWt4UktDRWRpNmMwckQtR0lfNmFmdThKIiwiaWQiOiJmY18xUzg2Wi1HX0k5dmt3TjRQaXBXOXVRSV8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210TllVTmxhWFZCT0ZONmVYSnFNa0ZTY25odFJXcHNTMHg0UXpWak1IUnVkbHByU1ZSdlRGRkZiRm8zWHpab2FraGtVRmMwWkhaMFpEZzJibmhxY0V4SVlrcEtkMUZyTmt3eFZtOUNSMjk1UW5KcFUyUmZSV0ZwUlRKWVFSSVhNVk00TmxvdFIxOUpPWFpyZDA0MFVHbHdWemwxVVVrYUlrRkdXSEpGWTNBMFZ6bGFhMFJmTjB4NGNubDBVMU4xV21oMFExSmhSM1ZQUzBFIiwiZmN2IjoiMyIsImVpIjoiMVM4NlotR19JOXZrd040UGlwVzl1UUkiLCJxYyI6IkNnOWhaR1J5WlhOeklHOW1JR0YwSm5RUUFIMzRpQTBfIiwicXVlc3Rpb24iOiJXaGVyZSBhcmUgQVRUIGNvcnBvcmF0ZSBvZmZpY2VzPyIsImxrIjoiYzVPU0w4OUlMVXBWU0FUaGtoS0Y1UHlpZ3Z5aXhKSlVoZnkwdE16azFHSUEiLCJicyI6ImM0WE5zUXJDTUJRRlVGd3ppVk9OWXA5TEJYWHFCeGc2S0xvWHVna3hUVzBnTnBJOEtmNmRfLURzdjFoVEs0aUR3NXZ1dWZlUkZSbG5KVWRRRHBJMFNtY09UbHhWd1BQY1N1ZFk4TGpFSXpxczM0UmpoRi1BN01taTYyTXBYNWxXMWJHTG9URFc3OEpCYWQzTTNRYnhrczdyUHczX3hqZklob1JiVTBOdVlBZkNWTWdGdG9PNXNsS2d2ckxnem1LZ2s3SlY2cVA4U0tmSW1rQldTaXVCTjVla2FjUHMyVmlPRWt4UktDRWRpNmMwckQtR0lfNmFmdThKIiwiaWQiOiJmY18xUzg2Wi1HX0k5dmt3TjRQaXBXOXVRSV8xIn0%3D"
         }
     ],
     "organic_results": [
@@ -97,166 +84,152 @@
             "position": 1,
             "title": "Contacts",
             "link": "https://investors.att.com/resources/contacts",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://investors.att.com/resources/contacts&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQFnoECBYQAQ",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://investors.att.com/resources/contacts&ved=2ahUKEwih_pLj-eOJAxVbMtAFHYpKLycQFnoECBMQAQ&usg=AOvVaw2SvyRY4LbVfCLQ_DKde5dz",
             "displayed_link": "https://investors.att.com › resources › contacts",
-            "favicon": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/080bd295fa32004a947e4d4f4afb486dbf45f8bdafe7f967cf8689710e928097.png",
-            "snippet": "(A) Link to email with this address: g47603@att.com. (B) If you are a stockholder and would like to submit a comment or question, fill out the form below and ...",
+            "favicon": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/9abf3c0e6925705843b7591a931ef7939f311b49bf3dc1a2b070be662af5cc99.png",
+            "snippet": "208 S. Akard St. ... Our main telephone number is (210) 821-4105. (Please note that while AT&T's corporate headquarters are in Dallas, the main telephone number ...",
             "snippet_highlighted_words": [
-                "g47603@att.com"
+                "208 S. Akard St"
             ],
             "source": "AT&T"
         },
         {
             "position": 2,
-            "title": "what is the at&t customer service e-mail address? : r/ATT",
-            "link": "https://www.reddit.com/r/ATT/comments/5fxvx8/what_is_the_att_customer_service_email_address/",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/ATT/comments/5fxvx8/what_is_the_att_customer_service_email_address/&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQFnoECBkQAQ",
-            "displayed_link": "3 comments · 7 years ago",
-            "favicon": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/080bd295fa32004a947e4d4f4afb486de4d80e7fedc25bc307ee3488826217e7.png",
-            "snippet": "There is no email address. Will need to call in or go to a store.",
+            "title": "1330 Avenue Of The Americas, New York, NY | AT&T Store",
+            "link": "https://www.att.com/stores/new-york/new-york/139",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.att.com/stores/new-york/new-york/139&ved=2ahUKEwih_pLj-eOJAxVbMtAFHYpKLycQFnoECDcQAQ&usg=AOvVaw2fCFgkitb1fGA-iRyRWEtt",
+            "displayed_link": "https://www.att.com › Stores › New York › New York",
+            "favicon": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/9abf3c0e6925705843b7591a931ef7936cfc87dfec4868cff40b0911e0202779.png",
+            "snippet": "AT&T New York | Cell Phones, Wireless Plans & Accessories | 1330 Avenue Of The Americas, New York, NY | AT&T Store.",
             "snippet_highlighted_words": [
-                "There is no email address"
+                "1330 Avenue Of The Americas, New York, NY"
             ],
-            "missing": [
-                "ID"
-            ],
-            "must_include": {
-                "word": "ID",
-                "link": "https://www.google.com/search?sca_esv=d6e55c93bd568d87&q=email+%22ID%22+and+address+of+AT%26T&sa=X&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQ5t4CegQIKRAB"
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4.3,
+                        "reviews": 164
+                    },
+                    "extensions": [
+                        "4.3(164)"
+                    ]
+                }
             },
-            "source": "Reddit · r/ATT"
+            "source": "AT&T"
         },
         {
             "position": 3,
+            "title": "AT&T Store Locator, AT&T Locations Near You",
+            "link": "https://www.att.com/stores/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.att.com/stores/&ved=2ahUKEwih_pLj-eOJAxVbMtAFHYpKLycQFnoECDYQAQ&usg=AOvVaw1YkcjhR5is2trE7o0xt7-B",
+            "displayed_link": "https://www.att.com › stores",
+            "favicon": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/9abf3c0e6925705843b7591a931ef7934ec75f2fe9ea84afae0892254e4e632c.png",
+            "snippet": "Want the latest phones? Need a new wireless data plan? Get directions, store hours, and phone number for an AT&T store near you.",
+            "snippet_highlighted_words": [
+                "Get directions, store hours, and phone number"
+            ],
+            "source": "AT&T"
+        },
+        {
+            "position": 4,
+            "title": "AT&T Headquarters and Office Locations",
+            "link": "https://craft.co/at-t/locations",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://craft.co/at-t/locations&ved=2ahUKEwih_pLj-eOJAxVbMtAFHYpKLycQFnoECDgQAQ&usg=AOvVaw2_5yCH62J7v2RfgF5dpIpo",
+            "displayed_link": "https://craft.co › at-t › locations",
+            "favicon": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/9abf3c0e6925705843b7591a931ef79358c9442001cbfb5c58b7cc506cfd1c84.png",
+            "snippet": "AT&T is headquartered in Dallas, 208 S Akard St, United States, and has 94 office locations.",
+            "snippet_highlighted_words": [
+                "208 S Akard St, United States"
+            ],
+            "source": "Craft.co"
+        },
+        {
+            "position": 5,
+            "title": "AT&T Inc Locations - Headquarters & Offices",
+            "link": "https://www.globaldata.com/company-profile/att-inc/locations/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.globaldata.com/company-profile/att-inc/locations/&ved=2ahUKEwih_pLj-eOJAxVbMtAFHYpKLycQFnoECDoQAQ&usg=AOvVaw3ZbWT-4fuLszoyT6VUZaHc",
+            "displayed_link": "https://www.globaldata.com › All Companies",
+            "favicon": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/9abf3c0e6925705843b7591a931ef7930bdafc48fe55d2ccca3b31b57e39d44a.png",
+            "snippet": "View AT&T Inc's company headquarters address along with its other key offices and locations. Head Office AT&T Inc Country United States of America",
+            "snippet_highlighted_words": [
+                "company headquarters address"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 295.0,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$295.00",
+                        "Free delivery"
+                    ]
+                }
+            },
+            "source": "Home - GlobalData"
+        },
+        {
+            "position": 6,
+            "title": "AT&T CORPORATE OFFICE - Updated November 2024",
+            "link": "https://www.yelp.com/biz/at-and-t-corporate-office-dallas",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/biz/at-and-t-corporate-office-dallas&ved=2ahUKEwih_pLj-eOJAxVbMtAFHYpKLycQFnoECDkQAQ&usg=AOvVaw07rP-jnPKNYdFqqTvWa_HV",
+            "displayed_link": "https://www.yelp.com › ... › Internet Service Providers",
+            "favicon": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/9abf3c0e6925705843b7591a931ef793a0b8b68af51b4b57b5ecc31db295fc39.png",
+            "snippet": "208 S Akard St. Dallas, TX 75201. Downtown ; (214) 741-6655 ; Visit Website. https://www.att.com ; More Info. Hours ...",
+            "snippet_highlighted_words": [
+                "208 S Akard St. Dallas, TX 75201"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 1.3,
+                        "reviews": 20
+                    },
+                    "extensions": [
+                        "1.3(20)"
+                    ]
+                }
+            },
+            "source": "Yelp"
+        },
+        {
+            "position": 7,
+            "title": "AT&T | Better Business Bureau® Profile",
+            "link": "https://www.bbb.org/us/tx/dallas/profile/long-distance-phone-service/att-0875-7935",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbb.org/us/tx/dallas/profile/long-distance-phone-service/att-0875-7935&ved=2ahUKEwih_pLj-eOJAxVbMtAFHYpKLycQFnoECDwQAQ&usg=AOvVaw2ODUTh8DGQQ_gQKSIvkirM",
+            "displayed_link": "https://www.bbb.org › ... › Long Distance Phone Service",
+            "favicon": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/9abf3c0e6925705843b7591a931ef7935dd5dcc9430ce4a5a61b31641a707e50.png",
+            "snippet": "Headquarters: 208 S. Akard St., Dallas, TX 75202 ; BBB File Opened: 11/1/1952 ; Years in Business: 139 ; Business Started: 3/1/1885 ; Type of Entity: Corporation.",
+            "snippet_highlighted_words": [
+                "208 S. Akard St., Dallas, TX 75202"
+            ],
+            "source": "Better Business Bureau"
+        },
+        {
+            "position": 8,
             "title": "Contact us - Global Business",
             "link": "https://www.corp.att.com/worldwide/att-contact/",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.corp.att.com/worldwide/att-contact/&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQFnoECC4QAQ",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.corp.att.com/worldwide/att-contact/&ved=2ahUKEwih_pLj-eOJAxVbMtAFHYpKLycQFnoECD4QAQ&usg=AOvVaw0xNzqp9PpVJp7qS8NE7IH0",
             "displayed_link": "https://www.corp.att.com › worldwide › att-contact",
-            "favicon": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/080bd295fa32004a947e4d4f4afb486d260a9e1646a3c74107ff372ef75270e0.png",
-            "snippet": "Contact us · Hanoi · Floor 4-6, 59A Ly Thai To Street · Hoan Kiem District · Hanoi · Tel: +84 8 3520 7608 · Fax: +84 8 3520 7604 · Email: rm-apvietlocon@ap.att.com.",
+            "favicon": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/9abf3c0e6925705843b7591a931ef793c63b5a7db1330c5f00687f8ef5ae31cb.png",
+            "snippet": "Contact us · Hyderabad · 7th Floor, Atria Building, The V Park, Plot No-17 · Software Units Layout, Madhapur · Hyderabad 500081 · India · Email: gbsindia@ap.att.com.",
             "snippet_highlighted_words": [
-                "rm-apvietlocon@ap.att.com"
+                "7th Floor, Atria Building, The V Park, Plot No-17"
             ],
             "source": "AT&T Business"
         },
         {
-            "position": 4,
-            "title": "Check Your AT&T Email - Support",
-            "link": "https://www.att.com/support/article/email-support/KM1010436/",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.att.com/support/article/email-support/KM1010436/&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQFnoECDAQAQ",
-            "displayed_link": "https://www.att.com › Support",
-            "favicon": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/080bd295fa32004a947e4d4f4afb486d1805936c6b75c9663bf39ccf14efc00f.png",
-            "date": "Oct 17, 2024",
-            "snippet": "Access your email on the web · Go to currently.com. · Select Mail. · Enter your email address and password. · Get your authentication security code.",
-            "snippet_highlighted_words": [
-                "Access your email on the web"
-            ],
-            "source": "AT&T"
-        },
-        {
-            "position": 5,
-            "title": "Get a Free AT&T Email Address - Support",
-            "link": "https://www.att.com/support/article/email-support/KM1232207/",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.att.com/support/article/email-support/KM1232207/&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQFnoECC8QAQ",
-            "displayed_link": "https://www.att.com › Support",
-            "favicon": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/080bd295fa32004a947e4d4f4afb486d3901ec96d6db999aceb87ff26a0d1283.png",
-            "date": "Nov 2, 2023",
-            "snippet": "Want a new email address? You can create an AT&T Mail account at currently.com in minutes - even if you don't have service from AT&T.",
-            "snippet_highlighted_words": [
-                "currently.com"
-            ],
-            "source": "AT&T"
-        },
-        {
-            "position": 6,
-            "title": "Send Text-To-Email or Email-To-Text Messages",
-            "link": "https://www.att.com/support/article/wireless/KM1061254/",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.att.com/support/article/wireless/KM1061254/&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQFnoECC0QAQ",
-            "displayed_link": "https://www.att.com › Support",
-            "favicon": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/080bd295fa32004a947e4d4f4afb486d30503c044510e8a294234ee356812814.png",
-            "date": "Dec 7, 2022",
-            "snippet": "Text message - Compose a new email and enter the recipient's 10-digit wireless number, followed by @txt.att.net. For example, 5551234567@txt.att ...",
-            "snippet_highlighted_words": [
-                "email",
-                "att",
-                "att"
-            ],
-            "source": "AT&T"
-        },
-        {
-            "position": 7,
-            "title": "AT&T Mail support",
-            "link": "https://www.att.com/support/email-support/",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.att.com/support/email-support/&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQFnoECDQQAQ",
-            "displayed_link": "https://www.att.com › Support",
-            "favicon": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/080bd295fa32004a947e4d4f4afb486d03b3917aa56b83db9156cd783b0529ac.png",
-            "snippet": "Get help signing in and managing email addresses, IDs, and passwords. Features Get help with basic email features, calendars, and email contacts.",
-            "snippet_highlighted_words": [
-                "Get help signing in and managing email addresses, IDs, and passwords"
-            ],
-            "sitelinks": {
-                "inline": [
-                    {
-                        "title": "Check Your AT&T Email",
-                        "link": "https://www.att.com/support/article/email-support/KM1010436/"
-                    },
-                    {
-                        "title": "Unlock an email account",
-                        "link": "https://www.att.com/support/article/email-support/KM1047666/"
-                    },
-                    {
-                        "title": "POP3 and IMAP Email Settings",
-                        "link": "https://www.att.com/support/article/email-support/KM1010523/"
-                    }
-                ]
-            },
-            "source": "AT&T"
-        },
-        {
-            "position": 8,
-            "title": "- AT&T Email Customer Support",
-            "link": "https://www.att.com/support/article/email-support/ak.m/",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.att.com/support/article/email-support/ak.m/&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQFnoECCsQAQ",
-            "displayed_link": "https://www.att.com › Support",
-            "favicon": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/080bd295fa32004a947e4d4f4afb486ddb858113933c1f994a802be2a8c9f66a.png",
-            "snippet": "Get help signing in and managing email addresses, IDs, and passwords. Features Get help with basic email features, calendars, and email contacts.",
-            "snippet_highlighted_words": [
-                "Get help signing in and managing email addresses, IDs, and passwords"
-            ],
-            "source": "AT&T"
-        },
-        {
             "position": 9,
-            "title": "AT&T Email verification & Email checker",
-            "link": "https://www.neverbounce.com/company/at-t/3194954",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.neverbounce.com/company/at-t/3194954&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQFnoECDIQAQ",
-            "displayed_link": "https://www.neverbounce.com › company › at-t",
-            "favicon": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/080bd295fa32004a947e4d4f4afb486d802fc990d03af23522e684efa3beda7e.png",
-            "snippet": "Verify AT&T and any email address with Neverbounce email checker. Ensure accurate and clean email lists to enhance your strategy. Try now!",
+            "title": "AT&T Corporate Offices - 5600 Glenridge Dr, Atlanta, GA, US",
+            "link": "https://www.waze.com/live-map/directions/us/ga/atlanta/atandt-corporate-offices?to=place.ChIJp9MeQM4P9YgRoyOmDxIxlIE",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.waze.com/live-map/directions/us/ga/atlanta/atandt-corporate-offices%3Fto%3Dplace.ChIJp9MeQM4P9YgRoyOmDxIxlIE&ved=2ahUKEwih_pLj-eOJAxVbMtAFHYpKLycQFnoECDsQAQ&usg=AOvVaw1DHFCjYVvhV6xv_sURIQTt",
+            "displayed_link": "https://www.waze.com › live-map › directions › atandt-c...",
+            "favicon": "https://serpapi.com/searches/673a2fd512345792f7f2a435/images/9abf3c0e6925705843b7591a931ef7933cba0da22e6c4a00b6466fdd74dbfc96.png",
+            "snippet": "Realtime driving directions to AT&T Corporate Offices, 5600 Glenridge Dr, Atlanta, based on live traffic updates and road conditions – from Waze fellow ...",
             "snippet_highlighted_words": [
-                "Verify AT&T and any email address"
+                "5600 Glenridge Dr, Atlanta"
             ],
-            "missing": [
-                "ID"
-            ],
-            "must_include": {
-                "word": "ID",
-                "link": "https://www.google.com/search?sca_esv=d6e55c93bd568d87&q=email+%22ID%22+and+address+of+AT%26T&sa=X&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQ5t4CegQITRAB"
-            },
-            "source": "Neverbounce.com"
-        },
-        {
-            "position": 10,
-            "title": "AT&T Mail",
-            "link": "https://more.att.com/email/",
-            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://more.att.com/email/&ved=2ahUKEwjhl8uGneOJAxXx78kDHZyTNVUQFnoECCwQAQ",
-            "displayed_link": "https://more.att.com › email",
-            "favicon": "https://serpapi.com/searches/6739ce9a5ddfba85a0750dfb/images/080bd295fa32004a947e4d4f4afb486d021d97271fa5061efb745066865bbff6.png",
-            "snippet": "Introducing the new AT&T Mail. Your inbox is going places. Get onboard. Explore all the new features today!",
-            "snippet_highlighted_words": [
-                "AT&T Mail"
-            ],
-            "source": "AT&T"
+            "source": "Waze"
         }
     ]
 }
